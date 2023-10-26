@@ -41,4 +41,5 @@ double raizCuadrada = Math.sqrt(numero);
 double seno = Math.sin(angulo);
 
 
+![Captura de pantalla 2023-10-26 121510](https://github.com/andresfelipeoq/calculadora-en-java-/assets/105876623/54469324-d11b-401e-9823-1deed2310b28)
 
